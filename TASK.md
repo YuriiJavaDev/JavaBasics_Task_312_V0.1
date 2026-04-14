@@ -7,7 +7,7 @@
 #### - In your program's main method, create a Dog object—let this be your new virtual pet. Now "ask" it to make a sound by calling its makeSound() method. Your program should demonstrate that the dog has earned its unique voice by displaying "Woof!"
 
 ```java
-public class Solution {
+public class ZooLauncherApp {
     public static void main(String[] args) {
         // Create a dog object—our zoo inhabitant
         Dog dog = new Dog();
